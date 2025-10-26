@@ -2,6 +2,8 @@
 
 DevArena is an interactive, AI-powered platform designed for backend engineers to practice system design, solve coding challenges, and visualize complex architectures in a competitive and engaging environment. It serves as a comprehensive training ground for developers looking to sharpen their skills beyond traditional algorithmic problems.
 
+Deployed Link : https://devaren.netlify.app
+
 ## Core Features
 
 - **⚔️ Live Duels**: Engage in real-time coding challenges against an AI opponent to test problem-solving under pressure.
